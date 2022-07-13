@@ -1,4 +1,5 @@
 # Time Series Analysis
+Predicting sales of an item inside a store
 
 ## How to make predictions using the model
 1. Train the model in `training.ipynb`.
