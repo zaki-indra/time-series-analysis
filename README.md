@@ -1,5 +1,6 @@
 # Time Series Analysis
 Predicting sales of an item inside a store
+dataset: https://drive.google.com/uc?id=1RQEXXW3aW2LHAawFo0OiAXfYWYgwF0Gh
 
 ## How to make predictions using the model
 1. Train the model in `training.ipynb`.
